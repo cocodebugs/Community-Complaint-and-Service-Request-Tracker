@@ -1,0 +1,6 @@
+request_id,category,location,description,impact,urgency,priority,created_at,status,updated_at,resolved_at
+CSR-20260827-0001,Electricity,refger,gerge eg eg eg eger,Medium,Low,Low,2026-08-27 17:38:46,Submitted,2026-08-27 17:38:46,
+CSR-20260908-0001,Water,Green Road,The Water in not cleaned,Medium,Low,Low,2026-09-08 00:16:15,Submitted,2026-09-08 00:16:15,
+CSR-20260908-0002,Electricity,Bashundhara,The is no elecricity since 3 PM,High,High,Critical,2026-09-08 01:50:20,Submitted,2026-09-08 01:50:20,
+CSR-20260908-0003,Noise,Uttara,"Since morning, house construction sounds are coming from Sec11",Medium,Low,Low,2026-09-08 10:26:56,Submitted,2026-09-08 10:26:56,
+CSR-20260908-0004,Road,asdfh,egcdfegfcefu,Low,Medium,Low,2026-09-08 11:57:39,Submitted,2026-09-08 11:57:39,
